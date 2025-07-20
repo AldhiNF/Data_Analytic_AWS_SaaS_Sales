@@ -23,7 +23,7 @@ Key Objectives:
 - Development Environment: Jupyter Notebook
 
 ## 4. Project Structure
-
+```
 ├── README.md          <- The top-level README for developers using this project.
 |
 ├── data
@@ -40,7 +40,7 @@ Key Objectives:
 │                         generated with `pip freeze > requirements.txt`
 │
 └── src                <- [Source code for use in this project](https://www.kaggle.com/code/hieremiaskevin/amazon-web-service-saas-sales-data-analysis).
-
+```
 
 ## 5. Summary of Findings
 ### 5.1 Business Insight
